@@ -14,6 +14,5 @@
  - Exploitation binaire (par [Corb3nik](https://github.com/Corb3nik))
  - CTF récapitulatif
 
-
-
-
+## Hiver 2018
+ - Introduction au hacking (par [epapavely](https://github.com/epapavely))
